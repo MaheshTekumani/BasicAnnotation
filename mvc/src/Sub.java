@@ -9,6 +9,8 @@ public class Sub {
 		System.out.println(sub(20,10));
 System.out.println("Hello Mahesh");
 System.out.println("Mahesh");
+ int a=10;
+ System.out.println(a);
 	}
 
 }
